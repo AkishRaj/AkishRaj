@@ -1,68 +1,190 @@
-# 💫 About Me:
-👋 About Me<br><br>Hi! I'm **Akish Raj**, a B.Tech CSE student specializing in **Cybersecurity and IoT**, with a strong passion for both **ethical hacking** and **web development**.<br><br>### 🛡️ Cybersecurity Enthusiast<br>- 🔐 Passionate about SOC operations, ethical hacking, and CTFs<br>- 🧠 Learning penetration testing, malware analysis and tools<br>- 🛠️ Tools I use: Wireshark, TShark, Burp Suite, Nmap, Python<br><br>### 🌐 Web Developer<br>- 💻 Frontend: HTML5, CSS3, JavaScript, React.js<br>- ⚙️ Backend: Node.js, Express (learning stage)<br>- 🎨 UI/UX: Clean layouts, responsive designs, performance-focused<br>- 🚀 Currently building full-stack projects to enhance real-world skills<br>- 🌐 Always exploring new ways to merge security with development<br><br>> 💬 Let's connect, collaborate, and learn together! 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1A0000,60:8B0000,100:E10600&height=220&section=header&text=AkishRaj&fontSize=75&fontColor=FFFFFF&fontAlignY=52&desc=🕷️%20Friendly%20Neighborhood%20Threat%20Hunter&descAlignY=72&descSize=17&animation=twinkling&stroke=E10600&strokeWidth=2" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akish_raj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akish-raj/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Akish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akishalban@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bangers&size=30&duration=2500&pause=800&color=E10600&center=true&vCenter=true&width=700&lines=🕷️+SOC+Analyst+in+Training;🔍+Threat+Hunter+%7C+CTF+Player;💀+Ethical+Hacker+%7C+Pen+Tester;🧠+Malware+Analyst+%7C+DFIR+Enthusiast;🌐+Defending+the+Cyber-Verse!)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-
-## 🔐 Cybersecurity Stack
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-
-## 🌐 Frontend Web Development
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-
-## 🔧 Security Tools & Frameworks
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-
-## 🛡️ Security Testing
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-## 🎨 UI/UX Design
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-
-## 📊 Monitoring & Analysis
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkishRaj&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AkishRaj&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkishRaj&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AkishRaj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coff.ee/Akishraj) 
+<div align="center">
+
+```
+ ╔═══════════════════════════════════════════════════════════════╗
+ ║   💥 POW!   🕷️ THWIP!   💀 HACK!   🔍 SCAN!   🛡️ DEFEND!   ║
+ ║                                                               ║
+ ║   I'm Akish Raj — B.Tech CSE | Cybersecurity & IoT           ║
+ ║   Swinging through logs, packets, and dark web intel.        ║
+ ║   My spider-sense tingles when threats go undetected.        ║
+ ║                                                               ║
+ ║   "Anyone can wear the mask. Not everyone hunts threats."    ║
+ ╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🕸️ The Spider-Verse of Cyber Operations
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ `Earth-616` — SOC Operations
+```diff
++ Security Operations Center (L1/L2 Analyst Path)
++ SIEM — Log Analysis & Alert Triage
++ Threat Detection & Incident Response
++ Network Traffic Analysis (PCAP)
++ Endpoint Detection & Response (EDR)
++ Threat Intelligence & IOC Hunting
++ MITRE ATT&CK Framework Mapping
+
+! Platforms: Splunk · Elastic SIEM · Grafana
+! Monitoring: Prometheus · Elasticsearch
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 💀 `Earth-1610` — Offensive Security
+```yaml
+Penetration Testing:
+  - Web App Pentesting (OWASP Top 10)
+  - Network Exploitation
+  - Privilege Escalation
+
+Ethical Hacking:
+  - CTF Competitions
+  - Vulnerability Assessment
+  - Exploit Development (Learning)
+
+Malware Analysis:
+  - Static & Dynamic Analysis
+  - Reverse Engineering (Learning)
+  - Sandbox Environments
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔧 Cyber Arsenal — Tools of the Spider
+
+### 🔐 Offensive Toolkit
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E10600?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0D0221?style=for-the-badge&logo=nmap&logoColor=E10600)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-E10600?style=for-the-badge&logoColor=white)
+
+### 🔍 Network & Traffic Analysis
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TShark](https://img.shields.io/badge/TShark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logoColor=E10600)
+![Zeek](https://img.shields.io/badge/Zeek-0D0221?style=for-the-badge&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-E10600?style=for-the-badge&logoColor=white)
+
+### 📊 SOC & SIEM Platforms
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elastic%20SIEM-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### 🧠 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 🐳 Infrastructure & Sandboxing
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🎯 Current Mission Intel
+
+```bash
+$ whoami
+→ AkishRaj | SOC Analyst in Training | Ethical Hacker
+
+$ cat /etc/current_ops.conf
+[ACTIVE]    ➜  Practicing CTF challenges (HackTheBox / TryHackMe)
+[ACTIVE]    ➜  Learning Splunk SPL queries for threat hunting
+[ACTIVE]    ➜  Studying MITRE ATT&CK & DFIR techniques
+[LEARNING]  ➜  Malware reverse engineering fundamentals
+[LEARNING]  ➜  Advanced network forensics (PCAP analysis)
+[GOAL]      ➜  Certifications: eJPT → CEH → OSCP
+[GOAL]      ➜  SOC Analyst Level 1 role
+
+$ cat /etc/threat_intel.log
+[INFO]  Spider-sense: ACTIVE
+[INFO]  Threat hunting mode: ENABLED
+[INFO]  Packet sniffer: RUNNING
+[WARN]  Unknown IOC detected — investigating...
+[INFO]  "Stay vigilant. Every packet tells a story."
+```
+
+---
+
+## 📊 Spider-Sense Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AkishRaj&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=E10600&icon_color=FF0000&text_color=FFFFFF&bg_color=0D0221&border_color=E10600"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkishRaj&layout=compact&langs_count=6&theme=highcontrast&title_color=E10600&text_color=FFFFFF&bg_color=0D0221&border_color=E10600"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=AkishRaj&theme=highcontrast&ring=E10600&fire=FF4500&currStreakLabel=E10600&background=0D0221&border=E10600&stroke=E10600"/>
+
+</div>
+
+---
+
+## 🕷️ Threat Activity Graph
+
+<div align="center">
+
+[![Akish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkishRaj&theme=high-contrast&bg_color=0D0221&color=E10600&line=FF0000&point=FFFFFF&area=true&hide_border=false&border_color=E10600)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌐 Connect Across the Multiverse
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akish_raj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akish-raj/)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Akish)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akishalban@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=AkishRaj&icon=0&color=9)](https://visitcount.itsvg.in)
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coff.ee/Akishraj)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,50:8B0000,100:000000&height=130&section=footer&text=🕷️+Thwip!+Stay+Vigilant.&fontSize=28&fontColor=FFFFFF&animation=twinkling" width="100%"/>
+
+*"That's all it is. A leap of faith." — Into the Spider-Verse* 🕸️
+
+</div>
