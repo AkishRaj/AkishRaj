@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D0221"/>
+      <stop offset="100%" style="stop-color:#1A0515"/>
+    </linearGradient>
+
+    <linearGradient id="redRing" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF4500"/>
+      <stop offset="100%" style="stop-color:#CC0000"/>
+    </linearGradient>
+
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E10600"/>
+      <stop offset="100%" style="stop-color:#FF4500"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="redGlow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Halftone dots -->
+    <pattern id="dots" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1" fill="#E10600" opacity="0.08"/>
+    </pattern>
+
+    <!-- Spider web pattern -->
+    <pattern id="web" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
+      <line x1="30" y1="0" x2="30" y2="60" stroke="#E10600" stroke-width="0.3" opacity="0.12"/>
+      <line x1="0" y1="30" x2="60" y2="30" stroke="#E10600" stroke-width="0.3" opacity="0.12"/>
+      <line x1="0" y1="0" x2="60" y2="60" stroke="#E10600" stroke-width="0.3" opacity="0.08"/>
+      <line x1="60" y1="0" x2="0" y2="60" stroke="#E10600" stroke-width="0.3" opacity="0.08"/>
+      <circle cx="30" cy="30" r="10" fill="none" stroke="#E10600" stroke-width="0.3" opacity="0.1"/>
+      <circle cx="30" cy="30" r="20" fill="none" stroke="#E10600" stroke-width="0.3" opacity="0.07"/>
+    </pattern>
+
+  </defs>
+
+  <!-- Card background -->
+  <rect width="900" height="200" rx="16" fill="url(#cardBg)"/>
+  <rect width="900" height="200" rx="16" fill="url(#dots)"/>
+  <rect width="900" height="200" rx="16" fill="url(#web)"/>
+
+  <!-- Red border glow -->
+  <rect width="900" height="200" rx="16" fill="none" stroke="#E10600" stroke-width="2" opacity="0.8" filter="url(#glow)"/>
+  <rect width="900" height="200" rx="16" fill="none" stroke="#E10600" stroke-width="0.5" opacity="1"/>
+
+  <!-- ==================== SECTION 1: TOTAL CONTRIBUTIONS ==================== -->
+
+  <!-- Spider icon top left -->
+  <text x="62" y="42" text-anchor="middle" font-size="22" fill="#E10600" filter="url(#glow)">🕷️</text>
+
+  <text x="62" y="82" text-anchor="middle"
+    font-family="'Arial Black', Impact, sans-serif"
+    font-size="46" font-weight="900" fill="#FFFFFF" filter="url(#glow)">132</text>
+
+  <text x="62" y="108" text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="11" font-weight="700" fill="#CCCCCC" letter-spacing="1">TOTAL COMMITS</text>
+
+  <text x="62" y="128" text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="9" fill="#888888">Feb 2023 – Present</text>
+
+  <!-- Mini web bar under -->
+  <rect x="15" y="138" width="94" height="3" rx="2" fill="#1A0A2E"/>
+  <rect x="15" y="138" width="70" height="3" rx="2" fill="url(#barGrad)" opacity="0.9"/>
+
+  <!-- ==================== DIVIDER 1 ==================== -->
+  <line x1="155" y1="20" x2="155" y2="180" stroke="#E10600" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- ==================== SECTION 2: CURRENT STREAK (center ring) ==================== -->
+
+  <!-- Flame emoji -->
+  <text x="328" y="36" text-anchor="middle" font-size="20" fill="#FF4500" filter="url(#redGlow)">🔥</text>
+
+  <!-- Outer glow ring -->
+  <circle cx="328" cy="102" r="52" fill="none" stroke="#E10600" stroke-width="1" opacity="0.2" filter="url(#redGlow)"/>
+  <!-- Main ring -->
+  <circle cx="328" cy="102" r="46" fill="#0D0221" stroke="none"/>
+  <circle cx="328" cy="102" r="46" fill="none" stroke="#E10600" stroke-width="6"
+    stroke-dasharray="260 30" stroke-dashoffset="-10"
+    stroke-linecap="round" filter="url(#redGlow)"/>
+  <!-- Inner thin ring -->
+  <circle cx="328" cy="102" r="39" fill="none" stroke="#E10600" stroke-width="1" opacity="0.3"/>
+
+  <!-- Number inside ring -->
+  <text x="328" y="96" text-anchor="middle"
+    font-family="'Arial Black', Impact, sans-serif"
+    font-size="40" font-weight="900" fill="#FFFFFF">1</text>
+  <text x="328" y="114" text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="9" font-weight="700" fill="#E10600" letter-spacing="1">DAY STREAK</text>
+
+  <text x="328" y="170" text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="10" font-weight="700" fill="#E10600" letter-spacing="2">CURRENT STREAK</text>
+
+  <text x="328" y="185" text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="9" fill="#888888">Feb 21, 2025</text>
+
+  <!-- ==================== DIVIDER 2 ==================== -->
+  <line x1="502" y1="20" x2="502" y2="180" stroke="#E10600" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- ==================== SECTION 3: LONGEST STREAK ==================== -->
+
+  <text x="600" y="42" text-anchor="middle" font-size="22" fill="#E10600" filter="url(#glow)">⚡</text>
+
+  <text x="600" y="82" text-anchor="middle"
+    font-family="'Arial Black', Impact, sans-serif"
+    font-size="46" font-weight="900" fill="#FFFFFF" filter="url(#glow)">3</text>
+
+  <text x="600" y="108" text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="11" font-weight="700" fill="#CCCCCC" letter-spacing="1">LONGEST STREAK</text>
+
+  <text x="600" y="128" text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="9" fill="#888888">Jun 4 – Jun 6, 2025</text>
+
+  <rect x="553" y="138" width="94" height="3" rx="2" fill="#1A0A2E"/>
+  <rect x="553" y="138" width="20" height="3" rx="2" fill="url(#barGrad)" opacity="0.9"/>
+
+  <!-- ==================== DIVIDER 3 ==================== -->
+  <line x1="748" y1="20" x2="748" y2="180" stroke="#E10600" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- ==================== SECTION 4: REPOS & STARS ==================== -->
+
+  <text x="825" y="42" text-anchor="middle" font-size="20" fill="#E10600" filter="url(#glow)">🕸️</text>
+
+  <text x="825" y="82" text-anchor="middle"
+    font-family="'Arial Black', Impact, sans-serif"
+    font-size="46" font-weight="900" fill="#FFFFFF" filter="url(#glow)">18</text>
+
+  <text x="825" y="108" text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="11" font-weight="700" fill="#CCCCCC" letter-spacing="1">REPOSITORIES</text>
+
+  <text x="825" y="128" text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="9" fill="#888888">Public Projects</text>
+
+  <rect x="779" y="138" width="94" height="3" rx="2" fill="#1A0A2E"/>
+  <rect x="779" y="138" width="94" height="3" rx="2" fill="url(#barGrad)" opacity="0.9"/>
+
+  <!-- ==================== BOTTOM TAGLINE ==================== -->
+  <text x="450" y="193" text-anchor="middle"
+    font-family="'Arial Black', Impact, sans-serif"
+    font-size="9" font-weight="900" fill="#E10600"
+    letter-spacing="4" opacity="0.7">🕷️  WITH GREAT POWER COMES GREAT RESPONSIBILITY  🕷️</text>
+
+</svg>
