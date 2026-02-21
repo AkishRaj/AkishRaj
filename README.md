@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bangers&size=30&duration=2500&pause=800&color=E10600&center=true&vCenter=true&width=700&lines=🕷️+SOC+Analyst+in+Training;🔍+Threat+Hunter+%7C+CTF+Player;💀+Ethical+Hacker+%7C+Pen+Tester;🧠+Malware+Analyst+%7C+DFIR+Enthusiast;🌐+Defending+the+Cyber-Verse!)](https://git.io/typing-svg)
 
+🕸️─────🕷️─────🕸️─────🕷️─────🕸️─────🕷️─────🕸️─────🕷️─────🕸️
 </div>
 
 ---
