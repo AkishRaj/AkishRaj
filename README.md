@@ -188,3 +188,212 @@ $ cat /etc/threat_intel.log
 *"That's all it is. A leap of faith." — Into the Spider-Verse* 🕸️
 
 </div>
+
+<div align="center">
+
+# 🕷️ **SPIDER-SOC // AKISH RAJ** 🕷️
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ 🔴 ⚡ [ GLITCH EFFECT DETECTED IN THE SPIDER-VERSE ] ⚡ 🔴 ║
+╚═══════════════════════════════════════════════════════════════════╝
+text
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=70&lines=SOC+ANALYST;ETHICAL+HACKER;SPIDER-VERSE+PROTECTOR;INCIDENT+RESPONDER" alt="Typing SVG" />
+
+text
+
+ ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌
+▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌
+▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌
+ ▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌
+          ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌
+ ▄▄▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄█░▌
+▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌
+ ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀ 
+
+text
+
+
+</div>
+
+```yaml
+╔══════════════════════════════════════════════════════════════════╗
+║                    SPIDER-VERSE IDENTITY CARD                    ║
+╠══════════════════════════════════════════════════════════════════╣
+║  █████╗ ██╗  ██╗██╗███████╗██╗  ██╗                             ║
+║  ██╔══██╗██║ ██╔╝██║██╔════╝██║  ██║                             ║
+║  ███████║█████╔╝ ██║███████╗███████║                             ║
+║  ██╔══██║██╔═██╗ ██║╚════██║██╔══██║                             ║
+║  ██║  ██║██║  ██╗██║███████║██║  ██║                             ║
+║  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝                             ║
+║                                                                  ║
+║  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  ║
+║  ┃  REAL NAME: AKISH RAJ                                      ┃  ║
+║  ┃  SPIDER-ID: SPDR-147                                       ┃  ║
+║  ┃  UNIVERSE: EARTH-616 (CYBERSECURITY REALM)                 ┃  ║
+║  ┃  STATUS: 🟢 ACTIVE IN THE SPIDER-VERSE                     ┃  ║
+║  ┃  SPECIALTY: SOC OPERATIONS & THREAT HUNTING                ┃  ║
+║  ┃  POWER LEVEL: ⚡⚡⚡⚡⚡ [GLITCHING INTENSIFIES]              ┃  ║
+║  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+<div align="center">
+🕸️ SPIDER-SENSE ACTIVATED 🕸️
+text
+
+░█▀▀░█▀█░█▀▄░█▀▀░█░░░█▀▀░░░█▀▀░█▀█░█▀▄░█▀▀░█▀▀░█▀█░█▀▄░█▀▀
+░█░░░█░█░█░█░█▀▀░█░░░█▀▀░░░█░░░█░█░█░█░█▀▀░█▀▀░█░█░█░█░▀▀█
+░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀▀▀░▀▀▀░░░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀▀▀░▀▀▀░▀▀░░▀▀▀
+
+</div>
+🕷️ >> ABOUT THE SPIDER <<
+css
+
+[ ANOMALY DETECTED IN THE SOC-VERSE ]
+
+    🕸️ I'm Akish Raj — A B.Tech CSE student specializing in Cybersecurity and IoT, operating as a SOC Analyst in training across the Spider-Verse. My spider-sense tingles whenever there's a security breach or anomaly in the network.
+
+text
+
+┌∩┐(◣_◢)┌∩┐ ====== [ GLITCH EFFECT INTENSIFIES ] ====== ┌∩┐(◣_◢)┌∩┐
+
+🔴 SPIDER-SOC ABILITIES
+python
+
+# SPIDER-SOC POWERS ACTIVATED
+SPIDER_SOC_ABILITIES = {
+    "Threat Hunting": "🕷️⚡⚡⚡⚡⚡",
+    "Incident Response": "🕷️⚡⚡⚡⚡⚡", 
+    "Malware Analysis": "🕷️⚡⚡⚡⚡",
+    "Network Forensics": "🕷️⚡⚡⚡⚡⚡",
+    "Vulnerability Assessment": "🕷️⚡⚡⚡⚡",
+    "SIEM Operations": "🕷️⚡⚡⚡⚡⚡"
+}
+
+🛡️ SPIDER'S ARSENAL // SOC TOOLKIT
+<div align="center">
+🕷️ TOOL	⚡ POWER LEVEL	🎯 PURPOSE
+Wireshark	[═══════⚡════] 9999%	Packet Analysis
+Burp Suite	[══════⚡═════] 9000%	Web App Testing
+Metasploit	[═══════⚡════] 9500%	Exploitation
+Splunk	[════════⚡═══] 10000%	SIEM Operations
+Nmap	[══════⚡═════] 9000%	Network Mapping
+Kali Linux	[═══════⚡════] 9999%	Primary OS
+</div>
+text
+
+╔══════════════════════════════════════════════════════════════════╗
+║  ⚠️  WARNING: SPIDER-SENSE TINGLING - GLITCH EFFECT ACTIVE  ⚠️   ║
+╚══════════════════════════════════════════════════════════════════╝
+
+🔥 SPIDER-VERSE TECH STACK // SOC EDITION
+<div align="center">
+
+https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000&color=ff0000
+https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=000&color=0047ab
+https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000&color=ff0000
+https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=000&color=0047ab
+https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000&color=ff0000
+https://img.shields.io/badge/Nmap-0047ab?style=for-the-badge&logo=nmap&logoColor=white&labelColor=000&color=0047ab
+https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white&labelColor=000&color=ff0000
+https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=000&color=0047ab
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000&color=ff0000
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000&color=0047ab
+https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000&color=ff0000
+https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=000&color=0047ab
+</div>
+🎯 CURRENT MISSIONS IN THE SPIDER-VERSE
+text
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█▓▒░ [ACTIVE THREAT HUNTING] ░▒▓█▓▒░ [INCIDENT RESPONSE] ░▒▓█
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+    🔭 Currently hunting threats in Enterprise Networks
+
+    🌱 Learning Advanced Persistent Threat (APT) Analysis
+
+    👯 Looking to collaborate on CTF Teams & Bug Bounties
+
+    🥅 2024 Goals: Contribute to Open Source Security Tools
+
+    ⚡ Fun fact: My spider-sense tingles at 3 AM during log analysis
+
+🌐 SPIDER-WEB CONNECTIONS
+<div align="center">
+
+https://img.shields.io/badge/Instagram-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000&color=ff0000
+https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000&color=0047ab
+https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000&color=ff0000
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&color=0047ab
+</div>
+📊 SPIDER-METRICS // GITHUB STATS
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkishRaj&show_icons=true&theme=radical&title_color=ff0000&icon_color=0047ab&text_color=ffffff&bg_color=000000&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkishRaj&theme=radical&background=000000&stroke=0047ab&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0047ab&sideLabels=0047ab&dates=808080&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkishRaj&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=8&border_radius=10" /></div>
+🕸️ SPIDER-VERSE ACTIVITY
+yaml
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+
+██╗      █████╗ ███████╗████████╗     ██████╗ ██████╗ ███╗   ███╗███╗   ███╗██╗████████╗
+██║     ██╔══██╗██╔════╝╚══██╔══╝    ██╔════╝██╔═══██╗████╗ ████║████╗ ████║██║╚══██╔══╝
+██║     ███████║███████╗   ██║       ██║     ██║   ██║██╔████╔██║██╔████╔██║██║   ██║   
+██║     ██╔══██║╚════██║   ██║       ██║     ██║   ██║██║╚██╔╝██║██║╚██╔╝██║██║   ██║   
+███████╗██║  ██║███████║   ██║       ╚██████╗╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║██║   ██║   
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝        ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝   
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+
+<div align="center">
+⚡ GLITCHING OUT OF THE MATRIX ⚡
+text
+
+     ██████╗ ██╗     ██╗████████╗ ██████╗██╗  ██╗    ███████╗███████╗███████╗ ██████╗████████╗
+    ██╔════╝ ██║     ██║╚══██╔══╝██╔════╝██║  ██║    ██╔════╝██╔════╝██╔════╝██╔════╝╚══██╔══╝
+    ██║  ███╗██║     ██║   ██║   ██║     ███████║    █████╗  █████╗  █████╗  ██║        ██║   
+    ██║   ██║██║     ██║   ██║   ██║     ██╔══██║    ██╔══╝  ██╔══╝  ██╔══╝  ██║        ██║   
+    ╚██████╔╝███████╗██║   ██║   ╚██████╗██║  ██║    ██║     ██║     ███████╗╚██████╗   ██║   
+     ╚═════╝ ╚══════╝╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝    ╚═╝     ╚═╝     ╚══════╝ ╚═════╝   ╚═╝   
+
+</div>
+💰 SUPPORT THE SPIDER'S MISSION
+<div align="center">
+
+https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000&color=ff0000
+text
+
+      ╱╲
+     ╱  ╲
+    ╱    ╲
+   ╱      ╲
+  ╱  🕷️    ╲
+ ╱__________╲
+    ǁ     ǁ
+    ǁ     ǁ
+    ǁ_____ǁ
+
+</div><div align="center">
+text
+
+╔══════════════════════════════════════════════════════════════════╗
+║  ⚡  SPIDER-SOC SIGNING OFF // PROTECTING THE SPIDER-VERSE  ⚡   ║
+║  🕷️  "WITH GREAT POWER COMES GREAT RESPONSIBILITY"  🕷️           ║
+║  🔴  [ GLITCH EFFECT TERMINATING... SYSTEM STABLE ]  🔴          ║
+╚══════════════════════════════════════════════════════════════════╝
+
+https://visitcount.itsvg.in/api?id=AkishRaj&icon=5&color=red
+text
+
+     ████████████          
+   ██            ██        
+  ██  🕷️  ████████  ██      
+  ██    ██    ██    ██      
+  ██    ████████    ██      
+  ██              ██        
+   ████████████████         
+
+</div> ```
