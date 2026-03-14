@@ -144,6 +144,8 @@ $ cat /etc/threat_intel.log
 <img src="https://raw.githubusercontent.com/AkishRaj/AkishRaj/main/stats-card.svg" width="100%"/>
 </div>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3799135" style='border:none;'></iframe>
+
 ---
 
 ## 🕷️ Threat Activity Graph
