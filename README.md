@@ -147,9 +147,12 @@ $ cat /etc/threat_intel.log
 <div align="center">
 <img src="https://raw.githubusercontent.com/AkishRaj/AkishRaj/main/stats-card.svg" width="100%"/>
 </div>
+## 🕷️ TryHackMe
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/PhantomWeaver.png" alt="Your Image Badge" />
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3799135" style='border:none;'></iframe>
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/PhantomWeaver.png)](https://tryhackme.com/p/PhantomWeaver)
+
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/PhantomWeaver.png)](https://tryhackme.com/p/PhantomWeaver)
 
 ---
 
