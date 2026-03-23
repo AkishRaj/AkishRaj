@@ -149,11 +149,7 @@ $ cat /etc/threat_intel.log
 </div>
 ## 🕷️ TryHackMe
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/PhantomWeaver.png)](https://tryhackme.com/p/PhantomWeaver)
-
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/PhantomWeaver.png)](https://tryhackme.com/p/PhantomWeaver)
-
+[![TryHackMe](./assets/tryhackme-badge.png)](https://tryhackme.com/p/PhantomWeaver)
 ---
 
 ## 🕷️ Threat Activity Graph
