@@ -147,9 +147,7 @@ $ cat /etc/threat_intel.log
 <div align="center">
 <img src="https://raw.githubusercontent.com/AkishRaj/AkishRaj/main/stats-card.svg" width="100%"/>
 </div>
-## 🕷️ TryHackMe
 
-[![TryHackMe](./assets/tryhackme-badge.png)](https://tryhackme.com/p/PhantomWeaver)
 ---
 
 ## 🕷️ Threat Activity Graph
