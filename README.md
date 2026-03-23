@@ -142,17 +142,6 @@ $ cat /etc/threat_intel.log
 
 # 🕷️ GitHub Stats
 
-## 🕸️ Commit Web
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkishRaj&theme=dark&hide_border=false&title_color=cc0000&text_color=ffffff&icon_color=cc0000&border_color=8b0000&bg_color=0d0000)
-
-## 🔥 Streak
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AkishRaj&theme=dark&hide_border=false&ring=cc0000&fire=ff2200&currStreakLabel=cc0000&sideLabels=cc0000&dates=666666&background=0d0000&border=8b0000)
-
-## 🕷️ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkishRaj&theme=dark&hide_border=false&layout=compact&title_color=cc0000&text_color=ffffff&bg_color=0d0000&border_color=8b0000)
-
----
-[![](https://visitcount.itsvg.in/api?id=AkishRaj&icon=10&color=6)](https://visitcount.itsvg.in)
 
 <!-- 🕷️ WITH GREAT POWER COMES GREAT RESPONSIBILITY 🕷️ -->
 <div align="center">
